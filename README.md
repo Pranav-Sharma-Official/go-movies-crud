@@ -110,7 +110,6 @@ All endpoints are tested using **Postman** to verify:
 * PUT request (Update movie)
 * DELETE request (Delete movie)
 
-```
 ![Create Movie](screenshots/create-movie.png)
 ![Result of Create Movie](screenshots/create-movie-result.png)
 ![Get all Movies](screenshots/get-movies.png)
@@ -118,7 +117,7 @@ All endpoints are tested using **Postman** to verify:
 ![Update Movie](screenshots/update-movie.png)
 ![Result of Update Movie](screenshots/update-movie-result.png)
 ![Delete Movie](screenshots/delete-movie.png)
-```
+
 
 ---
 
