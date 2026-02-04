@@ -1,10 +1,14 @@
 # Go Movies CRUD 🎬
 
-![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat\&logo=go\&logoColor=white)
+<div align="center">
+  
+![Go](https://img.shields.io/badge/Go-1.25+-00ADD8?style=flat\&logo=go\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-success?style=flat)
 ![Postman Tested](https://img.shields.io/badge/Tested%20With-Postman-orange?style=flat\&logo=postman)
 ![JSON](https://img.shields.io/badge/Data-JSON-blue?style=flat)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+</div>
 
 A backend REST API built using **Golang** that implements full **CRUD (Create, Read, Update, Delete)** operations for managing movie data. The API is tested using **Postman** to validate request handling, responses, and data flow.
 
